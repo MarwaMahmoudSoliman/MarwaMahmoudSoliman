@@ -1,4 +1,4 @@
-Ma, [4/25/2025 9:44 PM]
+
 <h1 align="center">Hi 👋, I'm Marwa Mahmoud Soliman</h1>
 <h3 align="center">Software Engineer | .NET Developer | Full Stack</h3>
 
@@ -48,7 +48,7 @@ marwasolimanmahmoud@gmail.com
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
 
-Ma, [4/25/2025 9:44 PM]
+
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
@@ -65,4 +65,3 @@ Ma, [4/25/2025 9:44 PM]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwamahmoudsoliman&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwamahmoudsoliman" alt="GitHub Streak" /></p>
